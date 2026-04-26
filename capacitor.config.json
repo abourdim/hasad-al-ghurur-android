@@ -1,6 +1,6 @@
 {
-  "appId": "{{APP_ID}}",
-  "appName": "{{APP_NAME}}",
+  "appId": "org.workshopdiy.hasadalghurur",
+  "appName": "Hasad al-Ghurur",
   "webDir": "www",
   "android": {
     "allowMixedContent": false,
@@ -10,14 +10,14 @@
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 1500,
-      "backgroundColor": "{{BRAND_PRIMARY}}",
+      "backgroundColor": "#226176",
       "androidSplashResourceName": "splash",
       "androidScaleType": "CENTER_CROP",
       "showSpinner": false
     },
     "StatusBar": {
       "style": "DARK",
-      "backgroundColor": "{{BRAND_PRIMARY}}"
+      "backgroundColor": "#226176"
     }
   }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "The Harvest of Arrogance — حصاد الغرور",
+  "short_name": "حصاد الغرور",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book — historical lessons on humility and arrogance",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFF3E0",
+  "theme_color": "#E65100",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
